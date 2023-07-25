@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
+import './intro.css';
 
-// Todo
-//  Think of something neat!
+
 export default class Intro extends Component {
     render() {
         return(
-            <div>
-
+            <div className='page'>
+                Intro
             </div>
         )
     }

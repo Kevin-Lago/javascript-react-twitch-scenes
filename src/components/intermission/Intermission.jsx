@@ -12,7 +12,7 @@ export default class Intermission extends Component {
     }
 
     renderCube() {
-
+        
     }
     
     render() {

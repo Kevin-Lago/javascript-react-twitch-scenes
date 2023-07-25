@@ -32,7 +32,7 @@ export default class AchievementsList extends Component {
     render() {
         return (
             <div>
-                
+                Achievements List
             </div>
         )
     }
